@@ -1,5 +1,5 @@
 document.getElementById("yes").addEventListener("click", function() {
-    document.getElementById("response").innerText = "Yay! ❤️ Can't wait!";
+    document.getElementById("response").innerText = "LETS GOOO! ❤️ Let me show you right, for good.";
 });
 
 document.getElementById("no").addEventListener("mouseover", function() {
